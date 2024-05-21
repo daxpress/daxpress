@@ -1,16 +1,83 @@
-## Hi there 👋
+Hi, I'm Daniel 👋
+=================
 
-<!--
-**DC20-dev/dc20-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+... and this is my GitHub profile!
+----------------------------------
+
+###
+
+👾 I'm a Game developer who loves creating engaging and enjoyable experiences.  
+🧑🏻‍💻 I enjoy working on everything from compelling storylines to innovative gameplay mechanics, and I have a special passion for graphics programming.  
+🏫 I love learning new stuff!
+
+###
+
+✌️About me
+----------
+
+###
+
+✨ Creating bugs since 2017  
+📚 I'm currently learning Vulkan  
+🌱 I’m working on my C++ Game Engine  
+🎯 Goals: Become the best version of myself by learning as much as I can
+
+###
+
+🛠️ I code with
+---------------
+
+###
+
+[![My Skills](https://skillicons.dev/icons?i=unreal,unity,cpp,c,cs,py,rust&theme=light)](https://skillicons.dev)
+
+###
+
+🏗️ Tools
+---------
+
+###
+
+[![Tools](https://skillicons.dev/icons?i=cmake,git,vscode,visualstudio&theme=light)](https://skillicons.dev)
+
+###
+
+🏆 Top Projects
+---------------
+
+###
+
+Here are a few projects I'm particularly proud of:  
+  
+\- [Steamrush](https://store.steampowered.com/app/2647100/STEAMRUSH/) : a third-person Boss Rush game featuring fast-paced melee combat against unique bosses, punctuated by exploration segments that gradually unveil the captivating story of the isolated city-state of Haze.  
+\- [MinimapMaker](https://github.com/DC20-dev/MinimapMaker) : MinimapMaker is my first Unity project. I worked on it while stuck in my bedroom because I had COVID. When I'm not feeling my best I turn to this project to cheer me up with its relaxing mood and to remind myself that we can always make the best out of a tough moment.
+
+###
+
+⚡Fun Facts!
+-----------
+
+###
+
+🐎 I'm a big motorhead! Although I'm Italian, I love American V8s: my favourite car is the 5th gen Camaro SS  
+🎸 My favourites music genres are rock, metal and everything in between  
+🏋🏻‍♂️ Do you know any nerd gymrat? No? Well, now you do!  
+🏎️ Predictably enough, F1 is what I enjoy watching during the weekend: Forza Ferrari!❤️
+
+###
+
+Connect with me!
+----------------
+
+###
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/daniel-corrieri/)
+[![Discord](https://skillicons.dev/icons?i=discord&theme=light)](https://discordapp.com/users/380084195210297354)
+[![GMail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:danielcorrieri@gmail.com)
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/daniel_corrieri/)
+
+###
