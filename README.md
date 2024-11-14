@@ -61,6 +61,8 @@ Here are a few projects I'm particularly proud of:
 
 \- [Chip8 Plugin](https://github.com/DC20-dev/Chip8-Plugin) : Unreal Engine 5 port of the Chip8 Emulator project using the .dll compiled library
 
+\- [Brainfuck Interpreter](https://github.com/DC20-dev/brainfuck_in_python) : brainfuck interpreter implemented in python
+
 \- [FAT16 Reader](https://github.com/DC20-dev/Fat16Reader) : python class that allows basic navigation of FAT16 formatted images
 
 \- [PNG Viewer (python)](https://github.com/DC20-dev/python_simple_png_viewer) : python CLI tool that loads PNG files
