@@ -53,7 +53,7 @@ Hi, I'm Daniel 👋
 
 Here are a few projects I'm particularly proud of:  
   
-\- [Steamrush](https://store.steampowered.com/app/2647100/STEAMRUSH/) : a third-person Boss Rush game featuring fast-paced melee combat against unique bosses, punctuated by exploration segments that gradually unveil the captivating story of the isolated city-state of Haze.  
+\- [STEAMRUSH](https://store.steampowered.com/app/2647100/STEAMRUSH/) : a third-person Boss Rush game featuring fast-paced melee combat against unique bosses, punctuated by exploration segments that gradually unveil the captivating story of the isolated city-state of Haze.  
 
 \- [MinimapMaker](https://github.com/DC20-dev/MinimapMaker) : MinimapMaker is my first Unity project. I worked on it while stuck in my bedroom because of COVID. When I'm not feeling my best I turn to this project to cheer me up with its relaxing mood and to remind myself that we can always make the best out of a tough moment.  
 
