@@ -10,8 +10,8 @@ Hi, I'm Daniel 👋
 
 ###
 
-👾 I'm a Game developer who loves creating engaging and enjoyable experiences.  
-🧑🏻‍💻 I enjoy working on everything from compelling storylines to innovative gameplay mechanics, and I have a special passion for graphics programming.  
+👾 I'm a Game developer who loves creating engaging and enjoyable experiences  
+🧑🏻‍💻 I enjoy working on everything from compelling storylines to innovative gameplay mechanics, and I have a special passion for graphics programming  
 🏫 I love learning new stuff!
 
 ###
@@ -53,9 +53,9 @@ Hi, I'm Daniel 👋
 
 Here are a few projects I'm particularly proud of:  
   
-\- [STEAMRUSH](https://store.steampowered.com/app/2647100/STEAMRUSH/) : a third-person Boss Rush game featuring fast-paced melee combat against unique bosses, punctuated by exploration segments that gradually unveil the captivating story of the isolated city-state of Haze.  
+\- [STEAMRUSH](https://store.steampowered.com/app/2647100/STEAMRUSH/) : a third-person Boss Rush game featuring fast-paced melee combat against unique bosses, punctuated by exploration segments that gradually unveil the captivating story of the isolated city-state of Haze  
 
-\- [MinimapMaker](https://github.com/DC20-dev/MinimapMaker) : MinimapMaker is my first Unity project. I worked on it while stuck in my bedroom because of COVID. When I'm not feeling my best I turn to this project to cheer me up with its relaxing mood and to remind myself that we can always make the best out of a tough moment.  
+\- [MinimapMaker](https://github.com/DC20-dev/MinimapMaker) : MinimapMaker is my first Unity project. I worked on it while stuck in my bedroom because of COVID. When I'm not feeling my best I turn to this project to cheer me up with its relaxing mood and to remind myself that we can always make the best out of a tough moment  
 
 \- [Chip8 Emulator](https://github.com/DC20-dev/Chip8Emulator) : a barebones implementation of a Chip8 Emulator with minimal use of STL to allow maximum portability (I'm looking at you, Unreal Engine...😑)
 
@@ -71,7 +71,7 @@ Here are a few projects I'm particularly proud of:
 
 \- [Raytracer](https://github.com/DC20-dev/rust_raytracer_series) : my personal implementation of a raytracer based on the famous "Ray Tracing in One Weekend Series" written in Rust
 
-\- [bomb_engine](https://github.com/DC20-dev/bomb_engine) : bomb_engine is my attempt at building a versatile game engine using modern C++ and other languages such as Rust for tooling. It is in very early development stage but I think it showcases my competence and versatility as a programmer.
+\- [bomb_engine](https://github.com/DC20-dev/bomb_engine) : bomb_engine is my attempt at building a versatile game engine using modern C++ and other languages such as Rust for tooling  It is in very early development stage but I think it showcases my competence and versatility as a programmer  
 Writing a Game Engine is no easy task! 🤯
 
 ###
