@@ -96,6 +96,5 @@ Connect with me!
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/daniel-corrieri/)
 [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discordapp.com/users/380084195210297354)
 [![GMail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:danielcorrieri@gmail.com)
-[![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/daniel_corrieri/)
 
 ###
