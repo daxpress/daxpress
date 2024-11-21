@@ -55,23 +55,23 @@ Here are a few projects I'm particularly proud of:
   
 \- [STEAMRUSH](https://store.steampowered.com/app/2647100/STEAMRUSH/) : a third-person Boss Rush game featuring fast-paced melee combat against unique bosses, punctuated by exploration segments that gradually unveil the captivating story of the isolated city-state of Haze  
 
-\- [MinimapMaker](https://github.com/DC20-dev/MinimapMaker) : MinimapMaker is my first Unity project. I worked on it while stuck in my bedroom because of COVID. When I'm not feeling my best I turn to this project to cheer me up with its relaxing mood and to remind myself that we can always make the best out of a tough moment  
+\- [MinimapMaker](https://github.com/daxpress/MinimapMaker) : MinimapMaker is my first Unity project. I worked on it while stuck in my bedroom because of COVID. When I'm not feeling my best I turn to this project to cheer me up with its relaxing mood and to remind myself that we can always make the best out of a tough moment  
 
-\- [Chip8 Emulator](https://github.com/DC20-dev/Chip8Emulator) : a barebones implementation of a Chip8 Emulator with minimal use of STL to allow maximum portability (I'm looking at you, Unreal Engine...😑)
+\- [Chip8 Emulator](https://github.com/daxpress/Chip8Emulator) : a barebones implementation of a Chip8 Emulator with minimal use of STL to allow maximum portability (I'm looking at you, Unreal Engine...😑)
 
-\- [Chip8 Plugin](https://github.com/DC20-dev/Chip8-Plugin) : Unreal Engine 5 port of the Chip8 Emulator project using the .dll compiled library
+\- [Chip8 Plugin](https://github.com/daxpress/Chip8-Plugin) : Unreal Engine 5 port of the Chip8 Emulator project using the .dll compiled library
 
-\- [Brainfuck Interpreter](https://github.com/DC20-dev/brainfuck_in_python) : brainfuck interpreter implemented in python
+\- [Brainfuck Interpreter](https://github.com/daxpress/brainfuck_in_python) : brainfuck interpreter implemented in python
 
-\- [FAT16 Reader](https://github.com/DC20-dev/Fat16Reader) : python class that allows basic navigation of FAT16 formatted images
+\- [FAT16 Reader](https://github.com/daxpress/Fat16Reader) : python class that allows basic navigation of FAT16 formatted images
 
-\- [PNG Viewer (python)](https://github.com/DC20-dev/python_simple_png_viewer) : python CLI tool that loads PNG files
+\- [PNG Viewer (python)](https://github.com/daxpress/python_simple_png_viewer) : python CLI tool that loads PNG files
 
-\- [PNG Viewer (C)](https://github.com/DC20-dev/c_assignments/tree/main/png_viewer) : C implementation of the PNG viewer
+\- [PNG Viewer (C)](https://github.com/daxpress/c_assignments/tree/main/png_viewer) : C implementation of the PNG viewer
 
-\- [Raytracer](https://github.com/DC20-dev/rust_raytracer_series) : my personal implementation of a raytracer based on the famous "Ray Tracing in One Weekend Series" written in Rust
+\- [Raytracer](https://github.com/daxpress/rust_raytracer_series) : my personal implementation of a raytracer based on the famous "Ray Tracing in One Weekend Series" written in Rust
 
-\- [bomb_engine](https://github.com/DC20-dev/bomb_engine) : bomb_engine is my attempt at building a versatile game engine using modern C++ and other languages such as Rust for tooling  It is in very early development stage but I think it showcases my competence and versatility as a programmer  
+\- [bomb_engine](https://github.com/daxpress/bomb_engine) : bomb_engine is my attempt at building a versatile game engine using modern C++ and other languages such as Rust for tooling  It is in very early development stage but I think it showcases my competence and versatility as a programmer  
 Writing a Game Engine is no easy task! 🤯
 
 ###
