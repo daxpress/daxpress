@@ -61,6 +61,8 @@ Here are a few projects I'm particularly proud of:
 
 \- [Chip8 Plugin](https://github.com/daxpress/Chip8-Plugin) : Unreal Engine 5 port of the Chip8 Emulator project using the .dll compiled library
 
+\- [Snake for MOS 6502](https://github.com/daxpress/6502_snake) : A minimalist Snake game built with 6502 assembly, focusing on low-level programming and making the most of limited hardware
+
 \- [Brainfuck Interpreter](https://github.com/daxpress/brainfuck_in_python) : brainfuck interpreter implemented in python
 
 \- [FAT16 Reader](https://github.com/daxpress/Fat16Reader) : python class that allows basic navigation of FAT16 formatted images
