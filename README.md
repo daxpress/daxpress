@@ -45,7 +45,7 @@ Hi, I'm Daniel 👋
 
 ###
 
-[![Tools](https://skillicons.dev/icons?i=cmake,git,vscode,visualstudio&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=cmake,git,vscode,visualstudio,rider,clion&theme=dark)](https://skillicons.dev)
 
 ###
 
