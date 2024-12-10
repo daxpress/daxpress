@@ -16,7 +16,7 @@ Hi, I'm Daniel 👋
 
 ###
 
-🆕 Check out my [Portfolio Website!](https://daxpress.github.io/)🔥🔥🔥
+🆕 Check out my <a href="https://daxpress.github.io" target="_blank">Portfolio Website!</a>🔥🔥🔥
 ----------------------------------
 
 ✌️About me
