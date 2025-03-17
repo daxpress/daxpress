@@ -76,7 +76,6 @@ Here are a few projects I'm particularly proud of:
 
 \- [Raytracer](https://github.com/daxpress/rust_raytracer_series) : my personal implementation of a raytracer based on the famous "Ray Tracing in One Weekend Series" written in Rust
 
-\- [C++ Game Engine](https://github.com/daxpress/bomb_engine) : An ambitious project still in its early stages, focused on learning and exploring the fundamentals of engine development. Features will evolve as development progresses!
 ###
 
 ⚡Fun Facts!
